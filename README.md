@@ -1,5 +1,7 @@
 # 🎬 Netflix Movies & TV Shows Clustering
 
+![Netflixjpg](https://github.com/user-attachments/assets/4b93671e-672c-48f4-ad30-08fe23a0620c)
+
 ## Overview  
 This project dives into Netflix's diverse collection of movies and TV shows using **unsupervised learning**. The aim is to uncover meaningful clusters based on show attributes like genre, country, duration, and description—creating insights that could support **personalized recommendations** and content strategy decisions for platforms like Netflix.
 
@@ -65,12 +67,7 @@ The dataset includes:
 - 💡 Output clusters can help build **recommendation systems** and support **topic modeling**.
 
 ## Project Images  
-*(Add these to your repo `images/` folder and reference them here)*
 
-```md
-![Netflix Dashboard 1](images/netflix_dashboard1.png)
-![Netflix Dashboard 2](images/netflix_dashboard2.png)
-```
 
 ## Tools & Libraries
 
